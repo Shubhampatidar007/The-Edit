@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/The-Edit/static/css/main.f855e6bc.css",
+    "main.js": "/The-Edit/static/js/main.83fd891f.js",
+    "static/js/787.d4aba7ab.chunk.js": "/The-Edit/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/The-Edit/index.html",
+    "main.f855e6bc.css.map": "/The-Edit/static/css/main.f855e6bc.css.map",
+    "main.83fd891f.js.map": "/The-Edit/static/js/main.83fd891f.js.map",
+    "787.d4aba7ab.chunk.js.map": "/The-Edit/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.83fd891f.js"
+  ]
+}
